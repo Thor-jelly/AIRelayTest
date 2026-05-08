@@ -10,7 +10,7 @@
 
 
 ## [PackyCode](https://www.packyapi.com/register?aff=1XXW)
-最低充值是 50 元
+最低充值是 50 元，感觉不错就是起步贵 感觉是拦一部分人
 
 ## [xcode.best](https://xcode.best/register?aff=LOZL)
 便宜 最低1元 每天能签到 有试错空间，我主要用gpt

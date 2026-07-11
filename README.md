@@ -2,6 +2,10 @@
 
 # 我的合租+TG [ThorJelly](https://t.me/ThorJelly) [TG频道](https://t.me/dongdongwushare)
 
+gpt plus 代充180一个月
+gpt pro  代充190一个月
+需要的tg群咨询
+
 ## ~~microsoft 365(office 365)合租 50一年。已满~~
 
 # 正在试用过的ai中转

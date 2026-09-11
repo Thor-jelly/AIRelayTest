@@ -22,6 +22,10 @@ gpt plus 代充160一个月
 
 ## 免费ai 大模型
 
+### [Agent Router](https://agentrouter.org/register?aff=iW0f) 注册，（内含 aff，双向可获得 $50.00 奖励），需搭配 CPA 请求头 使用。
+注册需要 GitHub或 Linux.do，再绑定邮箱。
+每日签到（25 刀）
+账户密码：绑定邮箱，再点邮箱登录，点忘记密码，就会给你邮箱发一个重置链接，然后再登录后修改密码
 
 ~~#### [FreeModel,gpt5.5 注册送一个月pro](https://freemodel.dev/invite/FRE-a9c65605)~~
 ~~看页面是送200刀，实际注册送一个月会员 和 5刀~~

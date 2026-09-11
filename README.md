@@ -7,10 +7,14 @@ gpt plus 代充160一个月
 
 ## ~~microsoft 365(office 365)合租 50一年。已满~~
 
-# 正在试用过的ai中转
+# 正在使用的ai中转
 
 **选购中转站的工具：[GetCheapAI](https://www.getcheapai.com/zh-cn)**
 
+## [Agent Router](https://agentrouter.org/register?aff=iW0f) 注册，（内含 aff，双向可获得 $50.00 奖励），需搭配 CPA 请求头 使用。
+注册需要 GitHub或 Linux.do，再绑定邮箱。
+每日签到（25 刀）
+账户密码：绑定邮箱，再点邮箱登录，点忘记密码，就会给你邮箱发一个重置链接，然后再登录后修改密码
 
 ## [PackyCode](https://www.packyapi.com/register?aff=1XXW)
 最低充值是 50 元，感觉不错就是起步贵 感觉是拦一部分人

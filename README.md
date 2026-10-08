@@ -11,25 +11,24 @@ gpt plus 代充160一个月
 
 **选购中转站的工具：[GetCheapAI](https://www.getcheapai.com/zh-cn)**
 
-## [Agent Router](https://agentrouter.org/register?aff=iW0f) 注册，（内含 aff，双向可获得 $50.00 奖励）。
-注册需要 GitHub或 Linux.do，再绑定邮箱。
-每日签到（25 刀）
-账户密码：绑定邮箱，再点邮箱登录，点忘记密码，就会给你邮箱发一个重置链接，然后再登录后修改密码
 
-## [PackyCode](https://www.packyapi.com/register?aff=1XXW)
+---
+## 收费
+
+### [PackyCode](https://www.packyapi.com/register?aff=1XXW)
 最低充值是 50 元，感觉不错就是起步贵 感觉是拦一部分人
 
-## [xcode.best](https://xcode.best/register?aff=LOZL)
+### [xcode.best](https://xcode.best/register?aff=LOZL)
 便宜 最低1元 每天能签到 有试错空间，我主要用gpt
 
 ---
 
 ## 免费ai 大模型
 
-### [Agent Router](https://agentrouter.org/register?aff=iW0f) 注册，（内含 aff，双向可获得 $50.00 奖励）。
-注册需要 GitHub或 Linux.do，再绑定邮箱。
-每日签到（25 刀）
-账户密码：绑定邮箱，再点邮箱登录，点忘记密码，就会给你邮箱发一个重置链接，然后再登录后修改密码
+~~### [Agent Router](https://agentrouter.org/register?aff=iW0f) 注册，（内含 aff，双向可获得 $50.00 奖励）。~~
+~~注册需要 GitHub或 Linux.do，再绑定邮箱。~~
+~~每日签到（25 刀）~~
+~~账户密码：绑定邮箱，再点邮箱登录，点忘记密码，就会给你邮箱发一个重置链接，然后再登录后修改密码~~
 
 ~~#### [FreeModel,gpt5.5 注册送一个月pro](https://freemodel.dev/invite/FRE-a9c65605)~~
 ~~看页面是送200刀，实际注册送一个月会员 和 5刀~~
